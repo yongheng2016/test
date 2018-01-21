@@ -1,6 +1,5 @@
-# test
-
-> yang
+# 父子组件传递
+> vm.$attrs | vm.$listener | inheritAttrs
 
 ## Build Setup
 
