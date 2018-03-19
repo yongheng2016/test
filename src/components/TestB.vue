@@ -17,7 +17,7 @@ export default {
   data() {
     return {};
   },
-  inheritAttrs: false,
+  inheritAttrs: false,    // --> 默认true,false情况下可以去除限制 
   components: { Child2 },
   mounted() {
     this.$emit("test1");
